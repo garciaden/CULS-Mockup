@@ -68,9 +68,9 @@ This is a basic Flask web application that serves as a UI and workflow template 
 
 - [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
    - **Extensions:**
-      - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) <br> <sub><sup>(required)</sup></sub>
-      - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) <br> <sub><sup>(recommended for Python syntax highlighting and tools)</sup></sub>
-      - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) <br> <sub><sup>(optional, for Docker integration)</sup></sub>
+      - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) <br> (required)
+      - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) <br>(recommended for Python syntax highlighting and tools)
+      - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) <br> (optional, for Docker integration)
 
 #### 2. Docker (must be installed and running)
 
